@@ -1,9 +1,14 @@
 {
-  "narrative": "",
-  "decisions": [],
+  "narrative": "Nursery (托儿所) 正名 0928 主人改定: Credo(内部别名,候废)→Cradle→Nursery。远仓 math4mad/cradle 承之; site/ quarto 首页建设中, 亮色, Hero=Westworld片头式 WebGL 婴儿镜头。",
+  "decisions": [
+    "Cradle 首任务语料择定: MACS (主人面谕 0928 05:4x)",
+    "正名 Nursery(托儿所) 主人 0928 面谕:「最微小的动作,留下痕迹」",
+    "首页 quarto 化, 结构仿 cora-atlas, 亮色(后期再改), 导航对齐 cora-atlas, 主页设 Hero",
+    "Hero 拟用 three.js 片头编排: 远景推近→俯视→左→右→止于面部"
+  ],
   "pending": [],
-  "next": "待主人部署：Cradle 第一任务（儿童语料 TalkBank 概念空间分析备料）",
+  "next": "MACS 数据获取路径探明 (TalkBank 需注册申请 or 有公开镜像) -> 语料落地 cradle/data/raw -> 概念空间基线备料",
   "mode": "forge",
-  "updated": "2026-09-28T05:27:34+0800",
-  "session": "cradle-birth-0928"
+  "updated": "2026-09-28T05:55:07+08:00",
+  "session": "cradle-macs-0928"
 }
