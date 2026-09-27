@@ -1,0 +1,7 @@
+# 新建于 0928：Laura workspace 原 config.yaml 本机查无，此为 Cradle 首册
+project: cradle
+alias: credo
+identity_root: ~/.chora/workspace-cradle
+data_root: ~/.chora/workspace-cradle/summaries
+corpus_target: TalkBank   # 儿童语料，待主人指定子库 (MACS/Providence/Bates 等)
+home_ref: reference/chora-cora-path.txt

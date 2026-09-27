@@ -1,0 +1,6 @@
+# 娘家实存路径 (0928 勘明；卷文 nominal 路径 ~/.chora/workspace-laura/ 本机查无)
+~/Programming/code-2026/multi-coworker/residents/lola/psyche/
+~/Programming/code-2026/chora/
+~/Programming/code-2026/Cora/
+~/Programming/code-2026/cora-atlas/
+~/Programming/code-2026/talk-with-agents/
